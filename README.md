@@ -135,7 +135,8 @@ struct Transcript has store, key {
 
 ### Testnet Deployment
 - **Network**: Aptos Testnet
-- **Module Address**: `[YOUR_MODULE_ADDRESS_HERE]`
+- **Module Address**: `[<img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/16f00298-9e65-4c00-ba5b-dc2e7de5687d" />
+  ]`
 - **Module Name**: `TranscriptAttestation`
 
 ### Mainnet Deployment
@@ -179,13 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **SakshiU-21** - Lead Developer - [@SakshiU-21](https://github.com/SakshiU-21)
 
-## 📞 Support
-
-For support and questions:
-
-- Create an [issue](https://github.com/SakshiU-21/Test/issues)
-- Join our community discussions
-- Email: [your-email@example.com]
 
 ## 🙏 Acknowledgments
 
@@ -193,6 +187,7 @@ For support and questions:
 - Move language community for resources and support
 - Contributors who help improve this project
 
----
+
+
 
 **⭐ If you find this project useful, please give it a star on GitHub!**
