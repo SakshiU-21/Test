@@ -1,0 +1,24 @@
+[package]
+name = "aptosbuildstation-pune"
+version = "1.0.0"
+authors = []
+
+[addresses]
+SendMessage='0x1e1eba356c3ad6301d59e134912b020c04b30ab2b2a62d83674282ea24238753'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+[package]
+name = "transcript_attestation"
+version = "0.0.1"
+
+[addresses]
+MyModule = "0xcd379245afb262bf94f59696cfad0d2f61b0ceeba33aa9a9562575b132"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
